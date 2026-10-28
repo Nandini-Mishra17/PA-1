@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Timetable</title>
+</head>
+<body>
+    <table border="1">
+        <caption>B.Tech Weekly Timetable</caption>
+        <tr>
+            <th>Day</th>
+            <th>9:00 - 10:00</th>
+            <th>10:00 - 11:00</th>
+            <th>11:00 - 12:00</th>
+            <th>12:00 - 1:00</th>
+            <th>2:00 - 3:00</th>
+        </tr>
+        <tr>
+            <th>Monday</th>
+            <td>Data Structures</td>
+            <td>DBMS</td>
+            <td rowspan="2" colspan="2">Data structures lab</td>
+            <td>Mathematics</td>
+        </tr>
+        <tr>
+            <th>Tuesday</th>
+            <td>Operating system</td>
+            <td>computer networks</td>
+            <td>web technology</td>
+        </tr>
+        <tr>
+            <th>Wednesday</th>
+            <td>DBMS</td>
+            <td>Data structures</td>
+            <td>mathematics</td>
+            <td>operating system</td>
+            <td>computer networks</td>
+        </tr>
+        <tr>
+            <th>Thursday</th>
+            <td>web technology</td>
+            <td>DBMS</td>
+            <td colspan="2">Lunch Break</td>
+            <td>Data structure</td>
+        </tr>
+        <tr>
+            <th>Friday</th>
+            <td>Computer Network</td>
+            <td>operating system</td>
+            <td>DBMS</td>
+            <td>web technology</td>
+            <td>programming lab</td>
+        </tr>
+    </table>
+</body>
+</html>
+<!-- Name-NANDINI MISHRA -->
+ <!-- Admission no.-2026B15310052 -->
